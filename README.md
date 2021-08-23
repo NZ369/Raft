@@ -9,11 +9,11 @@ Raft organizes client requests into a sequence, called the log, and ensures that
 
 To run tests use the following code:
 
-cd src/raft
-go test -run 2A. 
-go test -run 2B. 
-go test -run 2C. 
+cd src/raft\
+go test -run 2A\
+go test -run 2B\
+go test -run 2C\
 
-cd src/kvraft
-go test -run 3A. 
-go test -run 3B. 
+cd src/kvraft\
+go test -run 3A\
+go test -run 3B\
